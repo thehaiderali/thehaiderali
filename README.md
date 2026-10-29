@@ -1,6 +1,6 @@
 <div align="center">
-  <img src="assets/header.svg" alt="Haider Ali — software developer working across web, data, and AI" width="100%" />
-  <br /><br />
+  <h1>Haider Ali</h1>
+  <p>Web · Data · Applied AI</p>
   <a href="https://thehaiderali.com/">Website</a> ·
   <a href="https://www.linkedin.com/in/thehaideraly/">LinkedIn</a> ·
   <a href="https://github.com/thehaiderali?tab=repositories">Repositories</a>
